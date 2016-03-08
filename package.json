@@ -1,0 +1,11 @@
+{
+  "name": "module_madness_partner_project",
+  "version": "1.0.0",
+  "description": "module madness partner project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Elliott",
+  "license": "ISC"
+}
